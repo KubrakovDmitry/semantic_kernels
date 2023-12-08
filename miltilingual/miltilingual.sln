@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "miltilingual", "miltilingual\miltilingual.pyproj", "{F9302B68-767A-4F46-8689-A26EAFB5D869}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "triplet collection module", "..\triplet collection module\triplet collection module\triplet collection module.pyproj", "{F7A19304-E80B-466D-9D93-53A270ADF226}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "dict_article_categories_module", "..\dict_article_categories_module\dict_article_categories_module\dict_article_categories_module.pyproj", "{5FAA6A9F-FC21-4061-A721-9B8CBB96A7A7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "dictionary of categories and higher categories", "..\dictionary of categories and higher categories\dictionary of categories and higher categories\dictionary of categories and higher categories.pyproj", "{A9E335E2-309A-4ABA-BA9C-D7F3582D9B48}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "The_search_higher_level_category", "..\The_search_higher_level_category\The_search_higher_level_category\The_search_higher_level_category.pyproj", "{51F7F885-B048-4202-AF2E-A09EFEA0D5A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9302B68-767A-4F46-8689-A26EAFB5D869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9302B68-767A-4F46-8689-A26EAFB5D869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A19304-E80B-466D-9D93-53A270ADF226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A19304-E80B-466D-9D93-53A270ADF226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FAA6A9F-FC21-4061-A721-9B8CBB96A7A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FAA6A9F-FC21-4061-A721-9B8CBB96A7A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E335E2-309A-4ABA-BA9C-D7F3582D9B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E335E2-309A-4ABA-BA9C-D7F3582D9B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F7F885-B048-4202-AF2E-A09EFEA0D5A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F7F885-B048-4202-AF2E-A09EFEA0D5A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C09B5FE3-AB04-4347-BA33-F29A06E9B749}
+	EndGlobalSection
+EndGlobal

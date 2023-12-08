@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "splitting_into_folders", "splitting_into_folders\splitting_into_folders.pyproj", "{AB0F9930-8757-48F7-992B-4236A590D176}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB0F9930-8757-48F7-992B-4236A590D176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0F9930-8757-48F7-992B-4236A590D176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7C94112-6274-4F63-B2D3-49F91A0B4CF1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "clusterization", "clusterization\clusterization.pyproj", "{49CB43EE-CC57-4339-874F-3590940E4452}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GenerateVectors", "..\GenerateVectors\GenerateVectors\GenerateVectors.pyproj", "{8E24A515-3C51-4600-A5CC-BE8FEF09EBD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49CB43EE-CC57-4339-874F-3590940E4452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49CB43EE-CC57-4339-874F-3590940E4452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E24A515-3C51-4600-A5CC-BE8FEF09EBD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E24A515-3C51-4600-A5CC-BE8FEF09EBD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17FF96EC-225D-4D1F-9663-61F014E27ABA}
+	EndGlobalSection
+EndGlobal

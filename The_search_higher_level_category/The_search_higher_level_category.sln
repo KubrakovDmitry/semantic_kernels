@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "The_search_higher_level_category", "The_search_higher_level_category\The_search_higher_level_category.pyproj", "{51F7F885-B048-4202-AF2E-A09EFEA0D5A7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "dictionary of categories and higher categories", "..\dictionary of categories and higher categories\dictionary of categories and higher categories\dictionary of categories and higher categories.pyproj", "{A9E335E2-309A-4ABA-BA9C-D7F3582D9B48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51F7F885-B048-4202-AF2E-A09EFEA0D5A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F7F885-B048-4202-AF2E-A09EFEA0D5A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E335E2-309A-4ABA-BA9C-D7F3582D9B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E335E2-309A-4ABA-BA9C-D7F3582D9B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CC000BF-3119-4DEA-84BE-86B9A314649C}
+	EndGlobalSection
+EndGlobal

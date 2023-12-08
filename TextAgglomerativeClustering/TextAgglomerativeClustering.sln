@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TextAgglomerativeClustering", "TextAgglomerativeClustering\TextAgglomerativeClustering.pyproj", "{7D918D00-E1A5-447C-8A80-4587C59A7215}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D918D00-E1A5-447C-8A80-4587C59A7215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D918D00-E1A5-447C-8A80-4587C59A7215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3177E83-2239-46E0-9AEC-F22AD204A56D}
+	EndGlobalSection
+EndGlobal

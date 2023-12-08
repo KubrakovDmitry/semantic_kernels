@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "uniqueTriplets", "uniqueTriplets\uniqueTriplets.pyproj", "{FFF2F1C9-C0E2-4C24-B385-7D120F218619}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFF2F1C9-C0E2-4C24-B385-7D120F218619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF2F1C9-C0E2-4C24-B385-7D120F218619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA35A8ED-296D-4C60-83C2-68A57FDFFCB1}
+	EndGlobalSection
+EndGlobal
